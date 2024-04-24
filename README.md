@@ -1,4 +1,4 @@
-All rights reserved this hack belongs to glixzzy or some others
+
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);
